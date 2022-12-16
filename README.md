@@ -7,11 +7,15 @@
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/90304540/208116303-3546887d-3fec-4861-9de3-c91f363993ba.png)
 
+ 
 ![image](https://user-images.githubusercontent.com/90304540/208116437-e26f85e9-85e2-42ad-b5f5-5f27afee5b4d.png)
+
 
 ![image](https://user-images.githubusercontent.com/90304540/208116478-0355f393-70ad-4926-a2a1-bc978e661cc4.png)
 
+
 ![image](https://user-images.githubusercontent.com/90304540/208116528-9f91f2e7-c40b-46bc-a16b-e9aa7be301f3.png)
+
 
 ![image](https://user-images.githubusercontent.com/90304540/208116696-b501421f-9b3b-4af4-9311-94426c7fd488.png)
 
@@ -20,16 +24,16 @@
 
 - **Inaccurate Data:** It is seen that sometimes customer try to put inappropriate data on the site which miss leads customers.
 
-- **Server Down:**The android mobile user will not be able to insert or view details if the server goes down. Thus, there is disadvantage of single point failure.
+- **Server Down:** The android mobile user will not be able to insert or view details if the server goes down. Thus, there is disadvantage of single point failure.
 
-- **Fuel:**Fuel Cannot be tracked or cannot return. Fuel Cannot be verified for Purity.
+- **Fuel:** Fuel Cannot be tracked or cannot return. Fuel Cannot be verified for Purity.
 
 ## Future Enhancements
 
 I am yet on the initial stage of this development project and hence i will be facing much more enhancement on this system. These are some of the upgrades that i thought on this Project.
 
 
-- **Set vehicle location:**Owners and their cars are often in different locations, so people will surely appreciate it if they can just pin the location where their car is parked on the map and have car fuel brought there.
+- **Set vehicle location:** Owners and their cars are often in different locations, so people will surely appreciate it if they can just pin the location where their car is parked on the map and have car fuel brought there.
 
 - **Share location details:** A feature that will enable customers to automatically share their location data with drivers without talking to them.
 
